@@ -1,0 +1,40 @@
+richard
+
+
+ir elasctic credentials:
+root
+C1sc0123
+systemctl start elascticsearch.service
+ip add
+GUI:
+http://192.168.102.133:5601
+admin
+C1sc0123
+
+F1k CONFIGS:
+en
+conf
+in1 g1
+no shut
+ip addr dhcp
+end
+
+zabix
+root
+zabbix
+
+
+dnf install net-snmp-utils -y
+conf t
+access-list 10 permit (ipzabbix)
+snmp-server community public R0 10
+
+192.168.1.99 default firewall
+
+admin
+pass
+
+
+
+pornhub           66.254.114.0/24 
+sarapbabe.com 
